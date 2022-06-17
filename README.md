@@ -12,3 +12,4 @@ To run the load test type in cmd:    k6 run load_test.js
 
 Visit:      localhost:8000   to see the site
 
+Demo link:   https://streamable.com/cx67x4
